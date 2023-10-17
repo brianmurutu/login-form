@@ -1,9 +1,9 @@
 # login-form
-![Portifolio Desktop Demo](https://github.com/brianmurutu/login-form/blob/main/Screenshot%202023-10-17%20at%2020-41-20%20Animated%20Login%20From.png)
+![Page Screenshot](https://github.com/brianmurutu/login-form/blob/main/Screenshot%202023-10-17%20at%2020-41-20%20Animated%20Login%20From.png)
 
 ## Live Demo
 
-
+![Live Demo](https://github.com/brianmurutu/login-form/blob/main/livedemo.mkv)
 ## Contact
 
 If you want to contact me you can reach me at <br><br>
