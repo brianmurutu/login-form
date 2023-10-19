@@ -3,7 +3,7 @@
 
 ## Live Demo
 
-**Watch Video** - *Created by Me* &nbsp; [![Watch Video](https://raw.githubusercontent.com/ChristianFJung/simple-github-buttons/master/watchVideo.svg)](https://right-pelican.static.domains)
+**Watch Video** - *Created by Me* &nbsp; [![Watch Video](https://raw.githubusercontent.com/ChristianFJung/simple-github-buttons/master/watchVideo.svg)](https://right-pelican.static.domains/login-form-1)
  
 
 ## Contact
